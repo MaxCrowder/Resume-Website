@@ -1,2 +1,4 @@
 # Resume-Website
-A quick static website
+A static website using HTML, CSS, Javascript.
+
+https://mcrowder.com/
